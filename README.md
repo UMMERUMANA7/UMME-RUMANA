@@ -5,7 +5,6 @@ Excited to explore new opportunities and collaborate with like-minded individual
 <h1 align="center">Hi 👋, I'm UMMERUMANA</h1>
 <h3 align="center">STUDENT+WEB-DESIGNER</h3>
 
-- 🔭 I’m currently working on **AI GENIE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
